@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            font-size: 3rem;
+            color:rgb(220, 174, 113);
+            text-align: center;
+            margin: 40px 0 20px;
+            font-weight:100;
+            letter-spacing: 1px;
+            line-height: 1.2;
+            text-shadow: 1px 2px 3px rgba(0,0,0,0.1);
+            font-family: serif;
+
+        }
+        h3{
+          color: #ebd9bf;
+        }
+        
+        body {
+
+        text-align: center;
+        background-color: #694e27;
+        display: block;
+        align-items: center;
+        gap: 10px;
+        font-size: medium;
+        background: linear-gradient(to right,#34240f ,#bb9b6b);
+  color: rgb(27, 8, 8);
+  font-family: 'Segoe UI', sans-serif;
+  margin: auto;
+}
+
+
+      
+      .box {
+      padding: 20px;
+      border: 2px solid #8000 ;
+      border-color: #8000;
+      border-radius: 30px;
+      width: 850px;
+      margin: 20OPX;
+      background-color: #f5f5dc;
+      line-height:1.5;
+      text-align: center;
+      margin: auto;
+    }
+    img{
+
+      padding: 10px;
+      border: 2px solid #f5f5dc;
+      border-radius: 30px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 20px auto;
+    }
+    button {
+  color: #fff;
+  background: linear-gradient(to right, #e4d2b9, #121201); /* Orange-pink gradient */
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 30px;
+  font-weight: 600;
+  font-size: 1rem;
+  box-shadow: 0 4px 12px #00000033;
+  transition: all 0.3s ease;
+  display: inline-block;
+}
+
+button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
+}
+button {
+  display: inline-block;
+  padding: 14px 28px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  background: linear-gradient(to right,#baa588,#1d1305);
+  border: none;
+  border-radius: 50px;
+  box-shadow: 0 8px 20px rgba(0, 114, 255, 0.3);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  text-align: center;
+}
+
+button:hover {
+  background: linear-gradient(to right, #121201,#ebd9bf);
+  box-shadow: 0 12px 24px rgba(0, 114, 255, 0.4);
+  transform: translateY(-3px);
+}
+a {
+  color: #050300;
+  text-decoration: none;
+  float:inline-start;
+  font-weight: 500;
+  transition: color 0.3s ease, border-bottom 0.3s ease;
+  border-bottom: 2px solid transparent;
+  margin-left: 70px;
+  margin-top:15px;
+  border-radius: 5px;
+}
+
+a:hover {
+  color: #e0e5ea;
+  border-bottom: 2px solid #baa588;
+}
+
+    </style>
+</head>
+<body>
+    <em>
+        <h1>Abnet school</h1>
+    </em>
+    <hr>
+
+
+    <img src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/164/653/original/yekolo_temari_1.jpg?1746256003" alt="yekolo temari">
+    <P>
+        <div class="box">
+            <strong>
+                Ye’Abnet Timhirt Bet: A Unique Pillar of Adult Education in Ethiopia
+            </strong>
+
+       <br> Ethiopia, with its rich historical and religious traditions, has long maintained diverse forms of education. Among these, the Ye’Abnet Timhirt Bet, commonly known as the Abnet School, holds a special place. Rooted in the Ethiopian Orthodox Tewahedo Church (EOTC), this form of education transcends conventional schooling, offering adults both spiritual and intellectual enlightenment. A study by Addis Ababa University (AAU) sheds light on its critical role in promoting adult education and preserving Ethiopia's cultural identity.
+        </div>
+    </P>
+        <img src="
+        https://s3.amazonaws.com/shecodesio-production/uploads/files/000/164/655/original/yekolo_temari2.jpg?1746257931
+        
+        delete" alt="yekolo yekolo_temari2">
+        <div class="box">
+        <p>
+            <strong>
+                Uniqueness of the Abnet School
+            </strong>
+            <br> 
+            What makes Abnet Schools distinct is their fusion of religious doctrine with lifelong learning. Unlike modern secular schools that operate on a grade-level system and standardized curricula, Abnet Schools provide holistic, community-centered education. These institutions are deeply embedded within the church and are often run by clergy or trained religious scholars. Their curriculum focuses primarily on biblical literacy, Ge'ez language (an ancient liturgical language), hymnology, and traditional music, which are integral to Ethiopian Orthodox worship.
+            
+            Another defining feature is their accessibility and flexibility for adult learners. Many participants in Abnet Schools are adults who may not have had access to formal education earlier in life. The schools offer a second chance—not only to become literate but also to gain respected roles within the church and community. This aspect distinguishes Abnet Schools from conventional adult education centers, which often lack such spiritual integration and cultural recognition.</p>
+            </div>
+        <img src="
+        https://s3.amazonaws.com/shecodesio-production/uploads/files/000/164/656/original/yekolo_temari4.jpeg?1746258672
+        
+        delete" alt="">
+        <p>
+            <div class="box">
+            <strong>
+                Cultural and Educational Contributions
+            </strong>
+            <br>
+  
+            Abnet Schools serve a dual role: educational and cultural preservation. Through the teaching of ancient scripts, hymns, and theological interpretation, they help keep Ethiopia's religious heritage alive. In doing so, they foster national identity and intergenerational continuity. In rural areas especially, these schools are often the only source of structured learning available, thus filling a crucial gap in educational outreach.
+            
+            Furthermore, they contribute to social cohesion. Students frequently become chanters, deacons, or respected advisors in their communities. The school environment promotes discipline, community service, and spiritual devotion, which contrasts with the often competitive and career-focused atmosphere of mainstream education.</p>
+        </div>
+            <img src="
+            https://s3.amazonaws.com/shecodesio-production/uploads/files/000/164/657/original/yekolo_temari3.jpg?1746259245" alt="">
+        
+            <div class="box">
+                <p> 
+                    <h2>
+                        Conclusion
+                    </h2>
+                    <br>
+      
+                The Ye’Abnet Timhirt Bet exemplifies a uniquely Ethiopian model of adult education. Rooted in tradition but adaptable to modern needs, it embodies the spiritual, intellectual, and social aspirations of its learners. Recognizing the value of Abnet Schools not only honors Ethiopia's rich heritage but also highlights an alternative path toward inclusive and culturally relevant education. As Ethiopia continues to strive for educational reform and inclusion, the timeless lessons of Abnet may offer both inspiration and guidance.
+                
+                </p>
+            </div>
+            <a href="https://www.yekolotemari.org/">To help this school</a>
+            <br>
+            <button>
+                to Register
+            </button>
+            <br>
+            <br>
+            <h3>developed by Hawi</h3>
+            <script>
+            function contactus(){
+
+              alert("welcome to Abnet school");
+              let name  = prompt("what is your name?");
+              alert("Hi, " +name);
+              let age =prompt ("How old are you?");
+              let infn= prompt("Do you learn abenet before now?");
+              if (infn==="yes");{
+                let info= prompt("Do you finished the basic class?");
+                 if  (info==="yes"){
+                  alert("you can learn the next clsss");
+                }
+                else {
+                  alert("you have to learn the basic class!");
+                }}
+              }
+              let contactbutton=document.querySelector("button");
+              contactbutton.addEventListener("click",contactus);
+            </script>
+          </body>
+</html>
